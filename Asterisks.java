@@ -4,7 +4,7 @@ pulic class a Diameter,circumference
 
 Scanner input = new Scanner(System.in);
 System.out.println("************");
-System.out.println("	 ************ "); 
+System.out.println(************ "); 
 System.out.println("************");
 System.out.println(" ************ ");
 System.out.println("************");
